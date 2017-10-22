@@ -20,4 +20,4 @@ Who are we ?
 The base repo WAS and IS being developed and maintained by [Jenssegers](https://github.com/jenssegers/laravel-mongodb).
 Our goal is to provide higher quality support/bugfixes with fresh and additional features.
 
--- Forked from Moloquent to use get a stable dev-master branch
+-- Forked from Moloquent to get a stable dev-master branch
