@@ -1,5 +1,5 @@
 {
-  "name": "moloquent/moloquent",
+  "name": "lbss2015/moloquent",
   "description": "A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)",
   "keywords": [
     "laravel",
